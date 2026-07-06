@@ -14,7 +14,7 @@
 |--------|---------|
 | Arrays |  |
 | Strings |  |
-| Math | 5 |
+| Math | 6 |
 | Linked List | 1 |
 
-Total Problems: 6
+Total Problems: 7
