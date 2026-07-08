@@ -12,9 +12,9 @@
 
 | Topic | Solved |
 |--------|---------|
-| Arrays |  |
+| Arrays | 1 |
 | Strings |  |
 | Math | 7 |
 | Linked List | 1 |
 
-Total Problems: 8
+Total Problems: 9
